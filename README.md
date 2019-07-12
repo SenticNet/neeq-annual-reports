@@ -17,7 +17,7 @@ def parse_data(filename):
 ```
 
 ## Citation
-The paper that introduces this dataset and where more details can be found is: http://arxiv.org/abs/1906.09694
+The paper that introduces this dataset and where more details can be found is: https://aclweb.org/anthology/W19-5501
 
 > H. Bai, F. Z. Xing, E. Cambria, W. B. Huang. Business Taxonomy Construction Using Concept-Level Hierarchical Clustering. The First Workshop on Financial Technology and Natural Language Processing, FinNLP@IJCAI, 2019.
 
